@@ -46,6 +46,7 @@ body, html {
     text-shadow: 2px 2px aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 5px;
+    position:sticky;
     
   }
   p {
@@ -74,7 +75,9 @@ body, html {
 }
 .button {
   background-color:aquamarine;
-  border: none;
+  border-radius: 10px;
+  position:sticky;
+  border-color: aliceblue;
   color: black;
   padding: 15px 32px;
   text-align: center;
